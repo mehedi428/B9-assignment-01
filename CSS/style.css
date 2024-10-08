@@ -44,3 +44,42 @@ body {
     letter-spacing: 0%;
     text-align: center;
 }
+
+section {
+    margin: 80px auto;
+}
+
+
+.first-section {
+    max-width: 800px;
+}
+
+.first-section h1 {
+    color: rgb(253, 38, 38);
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.first-section p {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    margin-bottom: 25px;
+    font-weight: 500;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.first-section h2 {
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+}
